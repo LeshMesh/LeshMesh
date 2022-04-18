@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Alexey 👋
+- 🚀 QA Auto/Manual engineer
 
 
 ### Tools:
