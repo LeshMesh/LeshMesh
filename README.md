@@ -15,7 +15,7 @@
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/JUnit5.png" width="40" height="40"/> </a>
 <a href="https://selenide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/Selenide.png" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/Selenium.png" width="40" height="40"/> </a>
-<a href="https://aerokube.com/selenoid/latest/" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/Selenoid.png" width="40" height="40"/> </a>
+<a href="https://aerokube.com/selenoid/" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/Selenoid.png" width="40" height="40"/> </a>
 <a href="https://qameta.io/allure-report/" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/Allure_Report.png" width="40" height="40"/> </a> 
 <a href="https://qameta.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/AllureTestOps.png" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/Jenkins.png" width="40" height="40"/> </a>
