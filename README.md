@@ -1,6 +1,11 @@
 ### Hi there, I'm Alexey 👋
 - 🚀 QA Auto/Manual engineer
+- :dart: I study QA automation in **[QA.GURU online school](https://qa.guru)** in order to implement the gained knowledge in my work.
 
+<div align="center">
+<a href="https://www.linkedin.com/in/leshmesh/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/linkedIn.png" alt="linkedin" width="50" height="50"/>
+</a>
 
 ### Tools:
 <p align="left"> 
@@ -17,8 +22,13 @@
 <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/Rest-Assured.png" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/Github.png" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/git.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.atlassian.com/ru/software/jira" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/Jira.png" width="40" height="40"/> </a>
 <a href="https://telegram.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/Telegram.png" width="40" height="40"/> </a>
-</p>
+</p> 
+
+
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LeshMesh)](https://github.com/LeshMesh/github-readme-stats)
 
 <!--
 **LeshMesh/LeshMesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
