@@ -1,13 +1,23 @@
-### Hi there, I'm Alexey 👋
-- 🚀 QA Auto/Manual engineer
+## Hi there, I'm Alexey 👋
+- 🚀 I work as a QA Manual engineer
 - :dart: I study QA automation in **[QA.GURU online school](https://qa.guru)** in order to implement the gained knowledge in my work.
 
+## Contacts:
+<img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/linkedIn.png" width="20" height="20"/> [My LinkenIn](https://www.linkedin.com/in/leshmesh/)
+
+<img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/telegram.png" width="20" height="20"/> [My Telegram](https://t.me/Belyakov_AS)
+
+<!--
 <div align="left">
 <a href="https://www.linkedin.com/in/leshmesh/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/linkedIn.png" alt="linkedin" width="40" height="40"/>
+<img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/linkedIn.png" width="40" height="40"/>
 </a>
+<a href="https://t.me/Belyakov_AS" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/telegram.png" width="40" height="40"/>
+</a>
+-->
 
-### Tools:
+## Tools:
 <p align="left"> 
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/Intelij_IDEA.png" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/Java.png" width="40" height="40"/> </a>
@@ -23,10 +33,10 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/Github.png" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/git.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/ru/software/jira" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/Jira.png" width="40" height="40"/> </a>
-<a href="https://telegram.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/Telegram.png" width="40" height="40"/> </a>
+<a href="https://telegram.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/telegram.png" width="38" height="38"/> </a>
 </p> 
 
-
+## GitHub:
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LeshMesh)](https://github.com/LeshMesh)
 
 <!--
