@@ -2,9 +2,9 @@
 - 🚀 QA Auto/Manual engineer
 - :dart: I study QA automation in **[QA.GURU online school](https://qa.guru)** in order to implement the gained knowledge in my work.
 
-<div align="center">
+<div align="left">
 <a href="https://www.linkedin.com/in/leshmesh/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/linkedIn.png" alt="linkedin" width="50" height="50"/>
+<img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/linkedIn.png" alt="linkedin" width="40" height="40"/>
 </a>
 
 ### Tools:
@@ -25,7 +25,6 @@
 <a href="https://www.atlassian.com/ru/software/jira" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/Jira.png" width="40" height="40"/> </a>
 <a href="https://telegram.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/Telegram.png" width="40" height="40"/> </a>
 </p> 
-
 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LeshMesh)](https://github.com/LeshMesh/github-readme-stats)
