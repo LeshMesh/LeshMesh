@@ -3,6 +3,7 @@
 - 📚 I study QA automation in **[QA.GURU online school](https://qa.guru)** in order to implement the gained knowledge in my work.
 - 🐲 I like to study the causes of bugs
 - 🚇 I like to be involved in all the processes of testing and releasing quality products
+- 👻 I want to gain new experience and develop in manual and auto testing
 
 ## Contacts:
 <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/linkedIn.png" width="20" height="20"/> [My LinkenIn](https://www.linkedin.com/in/leshmesh/)
