@@ -1,11 +1,10 @@
-## Hi, I'm Alexey 👋
-- 🚀 I work as a QA Manual engineer
-- 📚 I study QA automation in **[QA.GURU online school](https://qa.guru)** in order to implement the gained knowledge in my work.
-- 🐲 I like to study the causes of bugs
-- 🚇 I like to be involved in all the processes of testing and releasing quality products
-- 👻 I want to gain new experience and develop in manual and auto testing
+## Привет, я Алексей 👋
+- 🚀 Работаю инженером по обеспечению качества
+- 📚 Закончил курс по автоматизации тестирования на Java в **[QA.GURU online school](https://qa.guru)**
+- 🐲 Люблю исследовать баги и участвовать в процессах тестирования и выпуска продуктов
+- 👻 Замотивирован развиваться и получать новый опыт в ручном и автоматизированном тестировании
 
-## Contacts:
+## Контакты:
 <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/linkedIn.png" width="20" height="20"/> [My LinkenIn](https://www.linkedin.com/in/leshmesh/)
 
 <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/telegram.png" width="20" height="20"/> [My Telegram](https://t.me/Belyakov_AS)
@@ -20,7 +19,7 @@
 </a>
 -->
 
-## Tools:
+## Инструменты:
 <p align="left"> 
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/Intelij_IDEA.png" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> <img src="https://github.com/LeshMesh/LeshMesh/blob/main/icon/Java.png" width="40" height="40"/> </a>
@@ -42,20 +41,18 @@
 </p> 
 -->
   
+
+## Навыки:
+- [Дипломный проект UI](https://github.com/LeshMesh/UiTestTodoist)
+- [Дипломный проект API](https://github.com/LeshMesh/ApiTestTodoist)
+- [Дипломный проект Mobile](https://github.com/LeshMesh/MobileTestTodoist)
+- [Запросы в Postman](https://github.com/LeshMesh/Postman)
+- [Решения задач SQL](https://github.com/LeshMesh/Sql-ex)
+- [Баг-репорты](https://github.com/LeshMesh/BagReport)
+- [Выполненные тестовые задания](https://github.com/LeshMesh/TestTask)
+
 ## GitHub:
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LeshMesh)](https://github.com/LeshMesh)
 
 <!--
-**LeshMesh/LeshMesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
